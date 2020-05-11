@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 100px;
+    width: 1350px;
+    background-color: #073286;
+}
+.align{
+    width: 1000px;
+    height: 300px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    float: left;
+}
+body{
+    background-color: #e6e6e6;
+}
+.text2{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-family: Arial;
+}
+.dropdown{
+    border-style: solid;
+    border-color: #85a3e0;
+    border-radius: 3px;
+    width: 70px;
+    height: 25px;
+    padding-left: 5px;
+}
+.choice{
+    font-family: helvetica;
+}
+h6{
+    float: right;
+    width: 200px;
+    color: #808080;
+    font-family: arial;
+    margin-top: 5px;
+}
+.inputbox{
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 4px;
+    border: 1px solid #85a3e0;
+    padding-left: 10px;
+}
+.inputbox2{
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 4px;
+    border: 1px solid #85a3e0;
+    padding-left: 10px;
+}
+.content{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    float: left;
+    margin-top: 20px;
+    width: 400px;
+    height: 1000px;
+    color: #2e5cb8;
+    font-family: Arial;
+}
+.left h3{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.right{
+    float: right;
+margin-top: 30px;
+font-family: Arial;
+}
+.login{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    margin: 30px;
+    margin-left: 100px;
+}
+.login p{
+    margin-left: 10px;
+}
+.login a{
+    color: white;
+}
+.input{
+    margin-left: 10px;
+}
+.loginbutton{
+    background-color: #66a3ff;
+    color: white;
+    font-family: arial;
+    padding: 4px 4px 4px 4px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+h2{
+    margin-bottom: 10px;
+}
+.signupbutton{
+    background-color: #69A74E;
+    border-radius: 3px;
+    border :1px solid black;
+    width: 150px;
+    height: 35px;
+    float: right;
+    margin: 10px 0px;
+    padding: 7px 20px;
+    color: white;
+    font-family:Helvetica;
+    font-size: 18px;
+}
+h5{
+    font-family: helvetica;
+    background-color: #073286;
+    color: white;
+    padding-left: 20px;
+    width: 200px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
